@@ -24,5 +24,5 @@
 <p>In the 5 years that I have been programming, I have managed to master and use all the above technologies with ease.</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurtcovayne&show_icons=true&locale=en&layout=compact" alt="kurtcovayne" /></p>
-
+<p align="center"><img src="https://imgur.com/kI5JDut.png" width="720" height="405" alt="resultados-icfes"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurtcovayne&" alt="kurtcovayne" /></p>
