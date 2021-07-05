@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **johnalejandrog.g4@gmail.com**
 
-- ⚡ Fun fact **im depressed asf.**
+<!-- - ⚡ Fun fact **im depressed asf.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
